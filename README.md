@@ -1,6 +1,6 @@
 # Hello there 👋
 I'm Kévin and i'm currently in formation to become a **back-end developer**.
-On my github profile you will be able to find some of my works related to my formation and some of my personal projects.
+On my github profile you will be able to find some of my works related to my training and some of my personal projects.
 
 ## Skills
 - Python
