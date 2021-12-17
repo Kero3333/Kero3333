@@ -5,6 +5,8 @@ On my github profile you will be able to find some of my works related to my tra
 ## Skills
 - Python
 - C/C++
+- Javascript
+- NodeJs
 - SQL
 - HTML
 - CSS
